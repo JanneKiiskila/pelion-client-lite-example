@@ -99,8 +99,6 @@
             "update-client.storage-locations"           : 1,
             "update-client.storage-page"                : 1,
             "QUECTEL_BG96.provide-default"              : true,
-            "ppp-cell-iface.baud-rate"                  : 57600,
-            "ppp-cell-iface.apn-lookup"                 : false,
             "cellular.debug-at"                         : true,
             "cellular.radio-access-technology"          : 3,
             "cellular.use-sms"                          : 0,
